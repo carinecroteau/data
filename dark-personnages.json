@@ -1,16 +1,16 @@
 {
   "characters": [
     {
+      "id" : 1,
       "firstName": "Daniel",
-        "lastName": "Kahnwald",
+      "lastName": "Kahnwald",
       "years": [
         1953
       ],
       "gender": "male",
-      "parentOf": [
-        "Ines Kahnwald"
-      ]
+      "parentOf": [17]
     },{
+      "id": 2,
       "firstName": "Magnus",
       "lastName": "Nielsen",
       "years": [
@@ -20,15 +20,16 @@
       ],
       "gender": "male",
       "siblings": [
-        "Martha Nielsen",
-        "Mikkel Nielsen"
+        10,
+        12
       ],
       "parents": [
-        "Ulrich Nielsen",
-        "Katharina Nielsen"
+        20,
+        8
       ],
       "sicMundus": true
     },{
+      "id": 3,
       "firstName": "Mads",
       "lastName": "Nielsen",
       "years": [
@@ -36,12 +37,13 @@
       ],
       "gender": "male",
       "siblings": [
-        "Ulrich Nielsen"
+        20
       ],
       "killedBy": [
-        "Noah"
+        32
       ]
     },{
+      "id": 4,
       "firstName": "Jana",
       "lastName": "Nielsen",
       "years": [
@@ -51,13 +53,14 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Ulrich Nielsen",
-        "Mads Nielsen"
+        20,
+        3
       ],
       "married": [
-        "Tronte Nielsen"
+        5
       ]
     },{
+      "id": 5,
       "firstName": "Tronte",
       "lastName": "Nielsen",
       "years": [
@@ -67,17 +70,18 @@
       ],
       "gender": "male",
       "parentOf": [
-        "Ulrich Nielsen",
-        "Mads Nielsen",
-        "Regina Tiedeman"
+        20,
+        3,
+        27
       ],
       "parents": [
-        "Agnes Nielsen"
+        6
       ],
       "married": [
-        "Jana Nielsen"
+        4
       ]
     },{
+      "id": 6,
       "firstName": "Agnes",
       "lastName": "Nielsen",
       "years": [
@@ -86,13 +90,14 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Tronte Nielsen"
+        5
       ],
       "siblings": [
-        "Noah"
+        32
       ],
       "sicMundus": true
     },{
+      "id": 7,
       "firstName": "Charlotte",
       "lastName": "Doppler",
       "years": [
@@ -101,17 +106,18 @@
       ],
       "gender": "female",
       "parents": [
-        "Elisabeth Doppler",
-        "Noah"
+        9,
+        32
       ],
       "married": [
-        "Peter Doppler"
+        34
       ],
       "parentOf": [
-        "Franziska Doppler",
-        "Elisabeth Doppler"
+        11,
+        9
       ]
     },{
+      "id": 8,
       "firstName": "Katharina",
       "lastName": "Nielsen",
       "years": [
@@ -120,14 +126,15 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Mikkel Nielsen",
-        "Martha Nielsen",
-        "Magnus Nielsen"
+        12,
+        10,
+        2
       ],
       "married": [
-        "Ulrich Nielsen"
+        20
       ]
     },{
+      "id": 9,
       "firstName": "Elisabeth",
       "lastName": "Doppler",
       "years": [
@@ -136,16 +143,17 @@
       ],
       "gender": "female",
       "siblings": [
-        "Franziska Doppler"
+        11
       ],
       "parentOf": [
-        "Charlotte Doppler"
+        7
       ],
       "parents": [
-        "Peter Doppler",
-        "Charlotte Doppler"
+        34,
+        7
       ]
     },{
+      "id": 10,
       "firstName": "Martha",
       "lastName": "Nielsen",
       "years": [
@@ -154,14 +162,15 @@
       ],
       "gender": "female",
       "siblings": [
-        "Magnus Nielsen",
-        "Mikkel Nielsen"
+        2,
+        12
       ],
       "parents": [
-        "Ulrich Nielsen",
-        "Katharina Nielsen"
+        20,
+        8
       ]
     },{
+      "id": 11,
       "firstName": "Franziska",
       "lastName": "Doppler",
       "years": [
@@ -170,14 +179,15 @@
       ],
       "gender": "female",
       "siblings": [
-        "Elisabeth Doppler"
+        9
       ],
       "parents": [
-        "Charlotte Doppler",
-        "Peter Doppler"
+        7,
+        34
       ],
       "sicMundus": true
     },{
+      "id": 12,
       "firstName": "Mikkel",
       "lastName": "Nielsen",
       "alias": [
@@ -189,17 +199,18 @@
       ],
       "gender": "male",
       "killedBy": [
-        "Mikkel Nielsen"
+        12
       ],
-      "married": "Hannah Kahnwald",
+      "married": 15,
       "parentOf": [
-        "Jonas Kahnwald"
+        15
       ],
       "parents": [
-        "Katharina Nielsen",
-        "Ulrich Nielsen"
+        8,
+        20
       ]
     },{
+      "id": 13,
       "lastName": "Kahnwald",
       "alias": [
         "Stranger",
@@ -215,11 +226,12 @@
       ],
       "gender": "male",
       "parents": [
-        "Hannah Kanhwald",
-        "Mikkel Nielsen"
+        15,
+        12
       ],
       "sicMundus": true
     },{
+      "id": 14,
       "firstName": "Helge",
       "lastName": "Doppler",
       "years": [
@@ -228,22 +240,23 @@
         2019
       ],
       "gender": "male",
-      "parentOf": "Peter Doppler",
+      "parentOf": 34,
       "parents": [
-        "Bernd Doppler",
-        "Greta Doppler"
+        18,
+        19
       ],
       "killedBy": [
-        "Helge Doppler"
+        14
       ]
     },{
+      "id": 15,
       "firstName": "Hannah",
       "lastName": "Kahnwald",
       "married": [
-        "Mikkel Nielsen"
+        12
       ],
       "parentOf": [
-        "Jonas Kahnwald"
+        15
       ],
       "years": [
         1986,
@@ -251,6 +264,7 @@
       ],
       "gender": "female"
     },{
+      "id": 16,
       "firstName": "Yasin",
       "lastName": "Friese",
       "years": [
@@ -258,14 +272,15 @@
       ],
       "gender": "male"
     },{
+      "id": 17,
       "firstName": "Ines",
       "lastName": "Kahnwald",
       "gender": "female",
       "parents": [
-        "Daniel Kahnwald"
+        1
       ],
       "parentOf": [
-        "Mikkel Nielsen"
+        12
       ],
       "years": [
         1953,
@@ -273,6 +288,7 @@
         2019
       ]
     },{
+      "id": 18,
       "firstName": "Bernd",
       "lastName": "Doppler",
       "years": [
@@ -281,12 +297,13 @@
       ],
       "gender": "male",
       "parentOf": [
-        "Helge Doppler"
+        14
       ],
       "married": [
-        "Greta Doppler"
+        19
       ]
     },{
+      "id": 19,
       "firstName": "Greta",
       "lastName": "Doppler",
       "years": [
@@ -294,12 +311,13 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Helge Doppler"
+        14
       ],
       "married": [
-        "Bernd Doppler"
+        18
       ]
     },{
+      "id": 20,
       "firstName": "Ulrich",
       "lastName": "Nielsen",
       "years": [
@@ -309,21 +327,22 @@
       ],
       "gender": "male",
       "parents": [
-        "Tronte Nielsen",
-        "Jana Nielsen"
+        5,
+        4
       ],
       "parentOf": [
-        "Mikkel Nielsen",
-        "Martha Nielsen",
-        "Magnus Nielsen"
+        12,
+        10,
+        2
       ],
       "married": [
-        "Katharina Nielsen"
+        8
       ],
       "siblings": [
-        "Mads Nielsen"
+        3
       ]
     },{
+      "id": 21,
       "firstName": "Aleksander",
       "lastName": "Tiedeman",
       "years": [
@@ -335,12 +354,13 @@
         "Boris Niewald"
       ],
       "parentOf": [
-        "Bartosz Tiedeman"
+        33
       ],
       "married": [
-        "Regina Tiedeman"
+        27
       ]
     },{
+      "id": 22,
       "firstName": "Egon",
       "lastName": "Tiedeman",
       "years": [
@@ -349,12 +369,13 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Claudia Tiedeman"
+        28
       ],
       "parents": [
-        "Doris Tiedeman"
+        23
       ]
     },{
+      "id": 23,
       "firstName": "Doris",
       "lastName": "Tiedeman",
       "years": [
@@ -362,12 +383,13 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Claudia Tiedeman"
+        28
       ],
       "married": [
-        "Egon Tiedeman"
+        22
       ]
     },{
+      "id": 24,
       "firstName": "Ulla",
       "lastName": "Obendorf",
       "years": [
@@ -375,6 +397,7 @@
       ],
       "gender": "female"
     },{
+      "id": 25,
       "firstName": "Jurgen",
       "lastName": "Obendorf",
       "years": [
@@ -382,6 +405,7 @@
       ],
       "gender": "male"
     },{
+      "id": 26,
       "firstName": "Erik",
       "lastName": "Obendorf",
       "years": [
@@ -389,6 +413,7 @@
       ],
       "gender": "male"
     },{
+      "id": 27,
       "firstName": "Regina",
       "lastName": "Tiedeman",
       "years": [
@@ -397,16 +422,17 @@
       ],
       "gender": "female",
       "parents": [
-        "Tronte Nielsen",
-        "Claudia Tiedeman"
+        5,
+        28
       ],
       "parentOf": [
-        "Bartosz Tiedeman"
+        33
       ],
       "married": [
-        "Aleksander Tiedeman"
+        21
       ]
     },{
+      "id": 28,
       "firstName": "Claudia",
       "lastName": "Tiedeman",
       "years": [
@@ -416,16 +442,17 @@
       ],
       "gender": "female",
       "parentOf": [
-        "Regina Tiedeman"
+        27
       ],
       "parents": [
-        "Egon Tiedeman",
-        "Doris Tiedeman"
+        22,
+        23
       ],
       "killedBy": [
-        "Noah"
+        32
       ]
     },{
+      "id": 29,
       "firstName": "Heinrich Gustav",
       "lastName": "Tannhaus",
       "years": [
@@ -434,12 +461,14 @@
       ],
       "gender": "male"
     },{
+      "id": 30,
       "lastName": "Clausen",
       "years": [
         2019
       ],
       "gender": "male"
     },{
+      "id": 31,
       "firstName": "Torben",
       "lastName": "Woller",
       "years": [
@@ -447,6 +476,7 @@
       ],
       "gender": "male"
     },{
+      "id": 32,
       "firstName": "Noah",
       "lastName": "Nielsen",
       "years": [
@@ -457,16 +487,17 @@
       ],
       "gender": "male",
       "siblings": [
-        "Agnes Nielsen"
+        6
       ],
       "parentOf": [
-        "Charlotte Doppler"
+        7
       ],
       "sicMundus": true,
       "killedBy": [
-        "Agnes Nielsen"
+        6
       ]
     },{
+      "id": 33,
       "firstName": "Bartosz",
       "lastName": "Tiedeman",
       "years": [
@@ -474,10 +505,11 @@
       ],
       "gender": "male",
       "parents": [
-        "Regina Tiedeman",
-        "Aleksander Tiedeman"
+        27,
+        21
       ]
     },{
+      "id": 34,
       "firstName": "Peter",
       "lastName": "Doppler",
       "years": [
@@ -485,14 +517,14 @@
       ],
       "gender": "male",
       "married": [
-        "Charlotte Doppler"
+        7
       ],
       "parentOf": [
-        "Franziska Doppler",
-        "Elisabeth Doppler"
+        11,
+        9
       ],
       "parents": [
-        "Helge Doppler"
+        14
       ]
     }
   ]
