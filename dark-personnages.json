@@ -1,0 +1,495 @@
+[{
+  "firstName": "Daniel",
+    "lastName": "Kahnwald",
+  "years": [
+    1953
+  ],
+  "gender": "male",
+  "parentOf": [
+    "Ines Kahnwald"
+  ]
+},{
+  "firstName": "Magnus",
+  "lastName": "Nielsen",
+  "years": [
+    1921,
+    2019,
+    2052
+  ],
+  "gender": "male",
+  "siblings": [
+    "Martha Nielsen",
+    "Mikkel Nielsen"
+  ],
+  "parents": [
+    "Ulrich Nielsen",
+    "Katharina Nielsen"
+  ],
+  "sicMundus": true
+},{
+  "firstName": "Mads",
+  "lastName": "Nielsen",
+  "years": [
+    1986
+  ],
+  "gender": "male",
+  "siblings": [
+    "Ulrich Nielsen"
+  ],
+  "killedBy": [
+    "Noah"
+  ]
+},{
+  "firstName": "Jana",
+  "lastName": "Nielsen",
+  "years": [
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Ulrich Nielsen",
+    "Mads Nielsen"
+  ],
+  "married": [
+    "Tronte Nielsen"
+  ]
+},{
+  "firstName": "Tronte",
+  "lastName": "Nielsen",
+  "years": [
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "parentOf": [
+    "Ulrich Nielsen",
+    "Mads Nielsen",
+    "Regina Tiedeman"
+  ],
+  "parents": [
+    "Agnes Nielsen"
+  ],
+  "married": [
+    "Jana Nielsen"
+  ]
+},{
+  "firstName": "Agnes",
+  "lastName": "Nielsen",
+  "years": [
+    1921,
+    1953
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Tronte Nielsen"
+  ],
+  "siblings": [
+    "Noah"
+  ],
+  "sicMundus": true
+},{
+  "firstName": "Charlotte",
+  "lastName": "Doppler",
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parents": [
+    "Elisabeth Doppler",
+    "Noah"
+  ],
+  "married": [
+    "Peter Doppler"
+  ],
+  "parentOf": [
+    "Franziska Doppler",
+    "Elisabeth Doppler"
+  ]
+},{
+  "firstName": "Katharina",
+  "lastName": "Nielsen",
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Mikkel Nielsen",
+    "Martha Nielsen",
+    "Magnus Nielsen"
+  ],
+  "married": [
+    "Ulrich Nielsen"
+  ]
+},{
+  "firstName": "Elisabeth",
+  "lastName": "Doppler",
+  "years": [
+    2019,
+    2052
+  ],
+  "gender": "female",
+  "siblings": [
+    "Franziska Doppler"
+  ],
+  "parentOf": [
+    "Charlotte Doppler"
+  ],
+  "parents": [
+    "Peter Doppler",
+    "Charlotte Doppler"
+  ]
+},{
+  "firstName": "Martha",
+  "lastName": "Nielsen",
+  "years": [
+    2019,
+    2052
+  ],
+  "gender": "female",
+  "siblings": [
+    "Magnus Nielsen",
+    "Mikkel Nielsen"
+  ],
+  "parents": [
+    "Ulrich Nielsen",
+    "Katharina Nielsen"
+  ]
+},{
+  "firstName": "Franziska",
+  "lastName": "Doppler",
+  "years": [
+    1921,
+    2019
+  ],
+  "gender": "female",
+  "siblings": [
+    "Elisabeth Doppler"
+  ],
+  "parents": [
+    "Charlotte Doppler",
+    "Peter Doppler"
+  ],
+  "sicMundus": true
+},{
+  "firstName": "Mikkel",
+  "lastName": "Nielsen",
+  "alias": [
+    "Michael Kahnwald"
+  ],
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "killedBy": [
+    "Mikkel Nielsen"
+  ],
+  "married": "Hannah Kahnwald",
+  "parentOf": [
+    "Jonas Kahnwald"
+  ],
+  "parents": [
+    "Katharina Nielsen",
+    "Ulrich Nielsen"
+  ]
+},{
+  "lastName": "Kahnwald",
+  "alias": [
+    "Stranger",
+    "Adam"
+  ],
+  "years": [
+    1921,
+    1953,
+    1986,
+    2019,
+    2052,
+    2085
+  ],
+  "gender": "male",
+  "parents": [
+    "Hannah Kanhwald",
+    "Mikkel Nielsen"
+  ],
+  "sicMundus": true
+},{
+  "firstName": "Helge",
+  "lastName": "Doppler",
+  "years": [
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "parentOf": "Peter Doppler",
+  "parents": [
+    "Bernd Doppler",
+    "Greta Doppler"
+  ],
+  "killedBy": [
+    "Helge Doppler"
+  ]
+},{
+  "firstName": "Hannah",
+  "lastName": "Kahnwald",
+  "married": [
+    "Mikkel Nielsen"
+  ],
+  "parentOf": [
+    "Jonas Kahnwald"
+  ],
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "female"
+},{
+  "firstName": "Yasin",
+  "lastName": "Friese",
+  "years": [
+    2019
+  ],
+  "gender": "male"
+},{
+  "firstName": "Ines",
+  "lastName": "Kahnwald",
+  "gender": "female",
+  "parents": [
+    "Daniel Kahnwald"
+  ],
+  "parentOf": [
+    "Mikkel Nielsen"
+  ],
+  "years": [
+    1953,
+    1986,
+    2019
+  ]
+},{
+  "firstName": "Bernd",
+  "lastName": "Doppler",
+  "years": [
+    1953,
+    1986
+  ],
+  "gender": "male",
+  "parentOf": [
+    "Helge Doppler"
+  ],
+  "married": [
+    "Greta Doppler"
+  ]
+},{
+  "firstName": "Greta",
+  "lastName": "Doppler",
+  "years": [
+    1953
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Helge Doppler"
+  ],
+  "married": [
+    "Bernd Doppler"
+  ]
+},{
+  "firstName": "Ulrich",
+  "lastName": "Nielsen",
+  "years": [
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "parents": [
+    "Tronte Nielsen",
+    "Jana Nielsen"
+  ],
+  "parentOf": [
+    "Mikkel Nielsen",
+    "Martha Nielsen",
+    "Magnus Nielsen"
+  ],
+  "married": [
+    "Katharina Nielsen"
+  ],
+  "siblings": [
+    "Mads Nielsen"
+  ]
+},{
+  "firstName": "Aleksander",
+  "lastName": "Tiedeman",
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "alias": [
+    "Boris Niewald"
+  ],
+  "parentOf": [
+    "Bartosz Tiedeman"
+  ],
+  "married": [
+    "Regina Tiedeman"
+  ]
+},{
+  "firstName": "Egon",
+  "lastName": "Tiedeman",
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Claudia Tiedeman"
+  ],
+  "parents": [
+    "Doris Tiedeman"
+  ]
+},{
+  "firstName": "Doris",
+  "lastName": "Tiedeman",
+  "years": [
+    1953
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Claudia Tiedeman"
+  ],
+  "married": [
+    "Egon Tiedeman"
+  ]
+},{
+  "firstName": "Ulla",
+  "lastName": "Obendorf",
+  "years": [
+    2019
+  ],
+  "gender": "female"
+},{
+  "firstName": "Jurgen",
+  "lastName": "Obendorf",
+  "years": [
+    2019
+  ],
+  "gender": "male"
+},{
+  "firstName": "Erik",
+  "lastName": "Obendorf",
+  "years": [
+    2019
+  ],
+  "gender": "male"
+},{
+  "firstName": "Regina",
+  "lastName": "Tiedeman",
+  "years": [
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parents": [
+    "Tronte Nielsen",
+    "Claudia Tiedeman"
+  ],
+  "parentOf": [
+    "Bartosz Tiedeman"
+  ],
+  "married": [
+    "Aleksander Tiedeman"
+  ]
+},{
+  "firstName": "Claudia",
+  "lastName": "Tiedeman",
+  "years": [
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "female",
+  "parentOf": [
+    "Regina Tiedeman"
+  ],
+  "parents": [
+    "Egon Tiedeman",
+    "Doris Tiedeman"
+  ],
+  "killedBy": [
+    "Noah"
+  ]
+},{
+  "firstName": "Heinrich Gustav",
+  "lastName": "Tannhaus",
+  "years": [
+    1953,
+    1986
+  ],
+  "gender": "male"
+},{
+  "lastName": "Clausen",
+  "years": [
+    2019
+  ],
+  "gender": "male"
+},{
+  "firstName": "Torben",
+  "lastName": "Woller",
+  "years": [
+    2019
+  ],
+  "gender": "male"
+},{
+  "firstName": "Noah",
+  "lastName": "Nielsen",
+  "years": [
+    1921,
+    1953,
+    1986,
+    2019
+  ],
+  "gender": "male",
+  "siblings": [
+    "Agnes Nielsen"
+  ],
+  "parentOf": [
+    "Charlotte Doppler"
+  ],
+  "sicMundus": true,
+  "killedBy": [
+    "Agnes Nielsen"
+  ]
+},{
+  "firstName": "Bartosz",
+  "lastName": "Tiedeman",
+  "years": [
+    2019
+  ],
+  "gender": "male",
+  "parents": [
+    "Regina Tiedeman",
+    "Aleksander Tiedeman"
+  ]
+},{
+  "firstName": "Peter",
+  "lastName": "Doppler",
+  "years": [
+    2019
+  ],
+  "gender": "male",
+  "married": [
+    "Charlotte Doppler"
+  ],
+  "parentOf": [
+    "Franziska Doppler",
+    "Elisabeth Doppler"
+  ],
+  "parents": [
+    "Helge Doppler"
+  ]
+}]
